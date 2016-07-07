@@ -17,6 +17,9 @@ If you need to update to the latest firmware to support newer hardware or fix bu
 
 Where X.Y is the firmware version you want to use.
 
+## UI Tweaks
+See [here](http://ubuntuforums.org/showthread.php?t=2211863) for how to setup a decent task switcher. And [here](http://askubuntu.com/questions/22207/quickly-place-a-window-to-another-screen-using-only-the-keyboard) to setup a shortcut to move window to another screen.
+
 ## HiDPI Display Support
 To get apps looking good with HiDPI displays.
 
