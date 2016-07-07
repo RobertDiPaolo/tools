@@ -22,3 +22,6 @@
 
 # Remote
 - **Remmina** - [http://www.remmina.org/wp/](http://www.remmina.org/wp/)
+
+# Messaging
+- **Franz** - [http://meetfranz.com/](http://meetfranz.com/)
