@@ -1,5 +1,5 @@
 # Ubuntu Specific
-All this is known to work on Ubunut 16.04
+All this is known to work on Ubuntu 16.04
 
 ## Useful Links
 * [Kernel PPA](http://kernel.ubuntu.com/~kernel-ppa/mainline/)
@@ -29,12 +29,12 @@ To avoid small fonts on grup screen;
 - Run 'sudo update-grub'
 
 ### QT & GTK
-Edit ~/.profile and add the following to the end
+Create a file '/etc/profile.d/hidpi.sh' with the following in it;
 
     QT_DEVICE_PIXEL_RATIO=2
     QT_SCREEN_SCALE_FACTORS=1.75
     GDK_SCALE=2
-    GDK_DPI_SCALE=0.4
+    GDK_DPI_SCALE=0.5
 
 These enviroment vars should fix a lot of apps.
 
